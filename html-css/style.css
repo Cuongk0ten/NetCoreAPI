@@ -1,8 +1,12 @@
-h1 {
-  font-size: 60px;
-}
+<html>
+<head>
+  <style>
+    p {color: red;}
+  </style>
+</head>
+<body>
 
-p {
-  font-size: 25px;
-  line-height: 50px;
-}
+<p>Hello World!</p>
+
+</body>
+</html>
