@@ -1,5 +1,8 @@
-.header {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 25px;
+  line-height: 50px;
 }
