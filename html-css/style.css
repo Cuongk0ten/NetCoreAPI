@@ -1,11 +1,12 @@
-#home a:hover {
-  background: url('img_navsprites_hover.gif') 0 -45px;
+input[type="text"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
 }
 
-#prev a:hover {
-  background: url('img_navsprites_hover.gif') -47px -45px;
-}
-
-#next a:hover {
-  background: url('img_navsprites_hover.gif') -91px -45px;
+input[type="button"] {
+  width: 120px;
+  margin-left: 35px;
+  display: block;
 }
