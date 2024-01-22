@@ -1,12 +1,11 @@
-<html>
-<head>
-  <style>
-    p {color: red;}
-  </style>
-</head>
-<body>
+.button {
+  background-color: #8c8c8c !important;
+  color: white !important;
+  padding: 5px !important;
+  border: 1px solid black !important;
+}
 
-<p>Hello World!</p>
-
-</body>
-</html>
+#myDiv a {
+  color: red;
+  background-color: yellow;
+}
