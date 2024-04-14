@@ -13,16 +13,16 @@ namespace MvcMovie.Controllers
 
     }
     [HttpPost]
-    public IActionResult Index(Sinhvien ps)
+    public IActionResult Index(Sinhvien sv)
     {
-       string str0utput ="Xin chao" + ps.SinhvienId + "-" + ps.DiaChi + "-" + ps.Tuoi + "-" + ps.SDT;
+       string str0utput ="Xin chao" + sv.SinhvienId + "-" + sv.DiaChi + "-" + sv.Tuoi + "-" + sv.SDT;
        ViewBag.infoSinhvien = str0utput;
 
        return View();
 
 
     }
-
+    
     
 
  }
