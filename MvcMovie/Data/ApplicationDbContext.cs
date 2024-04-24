@@ -3,9 +3,9 @@ using MvcMovie.Models;
 
 namespace MvcMovie.Data
 {
-    public class AppliticationDbcontex : DbContext
+    public class ApplicationDbContext    : DbContext
     {
-        public AppliticationDbcontex(DbContextOptions<AppliticationDbcontex>options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options):base(options)
         {}
         public DbSet<Person> Person {get; set;}
     }
