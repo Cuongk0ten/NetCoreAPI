@@ -276,3 +276,10 @@ E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime
 E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\EPPlus.dll
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\X.PagedList.dll
+E:\Net_Core_API\MvcMovie\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
